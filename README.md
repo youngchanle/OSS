@@ -20,10 +20,10 @@
 ### 각 강의 주차 별로 링크 걸기
 |주차|링크|
 |---|---|
-|2주차|[w2](www.naver.com)|
-|3주차|[w3](www.naver.com)|
-|4주차|[w4](www.naver.com)|
-|5주차|[w5](www.naver.com)|
-|6주차|[w6](www.naver.com)|
-|7주차|[w7](www.naver.com)|
-|9주차|[w9](www.naver.com)|
+|2주차|[w2](Note/w2.md)|
+|3주차|[w3](Note/w3.md)|
+|4주차|[w4](Note/w4.md)|
+|5주차|[w5](Note/w5.md)|
+|6주차|[w6](Note/w6.md)|
+|7주차|[w7](Note/w7.md)|
+|9주차|[w9](Note/w9.md)|
