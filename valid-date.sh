@@ -93,4 +93,4 @@ if (( day < 1 || day > max_day )); then
 fi
 
 
-echo "$month $day $year"
+echo "$month $day $year" 
